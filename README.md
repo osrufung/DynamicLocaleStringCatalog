@@ -1,8 +1,11 @@
 # DynamicLocaleStringCatalog
 
-Just a sample project to demonstrate how `LocalizedStringResource` can solve this problem.ç
+Just a sample project to demonstrate how `LocalizedStringResource` can solve this problem.
 
 > get the correct localized String for specific locale
+
+
+![Screenshot](screenshot1.png)
 
 Issue:
 https://forums.developer.apple.com/forums/thread/691532
