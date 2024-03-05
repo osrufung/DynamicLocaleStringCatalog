@@ -5,7 +5,7 @@ Just a sample project to demonstrate how `LocalizedStringResource` can solve thi
 > get the correct localized String for specific locale
 
 
-![Screenshot](screenshot1.png)
+![Screenshot](screenshot.png)
 
 Issue:
 https://forums.developer.apple.com/forums/thread/691532
